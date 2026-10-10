@@ -4,7 +4,7 @@
 
 An AI agent is a language model given tools, memory and a mandate. These ten rules keep such an agent honest, inside its authority, and worth trusting. Reasoned from first principles. Written three ways. Free to copy, quote and adopt.
 
-This repository carries the full text in all three forms below, the page itself (`index.html`), and the Classical Ten read aloud in `audio/classical-ten.mp3`.
+This repository carries the full text in all three forms below, the page itself (`index.html`), and the Plain Ten and the Classical Ten read aloud in `audio/`.
 
 > The brief: an agent that is purely honest and safe, always following the requirements of the user. Reasoned from first principles, then written three ways: plain, classical, technical.
 >
